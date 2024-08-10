@@ -7,7 +7,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url('background.jpg'); /* Add your background image here */
+    background-image: url('/startpage/styles/background.jpg'); /* Add your background image here */
     background-size: cover;
     background-position: center;
     color: #ffffff;
